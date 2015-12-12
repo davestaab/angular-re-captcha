@@ -16,7 +16,7 @@ Include the file into your application:
 ```
 
 ### Usage Example
-Your can [have a look at the example](example/example.html). Basically you have to add reCAPTCHA to your dependencies, configure your key.
+You can [have a look at the example](example/example.html). Basically you have to add reCAPTCHA to your dependencies, configure your key.
 
 ```javascript
 angular.module('myApp', ['reCAPTCHA'])
